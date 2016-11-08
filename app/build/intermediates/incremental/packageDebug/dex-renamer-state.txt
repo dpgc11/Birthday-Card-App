@@ -1,0 +1,7 @@
+#Tue Nov 08 05:11:22 IST 2016
+base.0=D\:\\AndroidStudioProjects\\HappyBirthday\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_693dba8dd7b4138461465ae3691bfa4f9b9ebb4a
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\AndroidStudioProjects\\HappyBirthday\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_ef534fd3503d9b05b83fcf1214979770ce0ea6a6\\classes.dex
+base.1=D\:\\AndroidStudioProjects\\HappyBirthday\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_ef534fd3503d9b05b83fcf1214979770ce0ea6a6
+file.0=D\:\\AndroidStudioProjects\\HappyBirthday\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_693dba8dd7b4138461465ae3691bfa4f9b9ebb4a\\classes.dex
